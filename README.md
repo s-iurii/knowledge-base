@@ -1,5 +1,3 @@
-# knowledge-base
-
 # Interview Preparation Checklist
 
 Welcome to the **Interview Preparation Checklist** repository! This repository contains a curated checklist with essential resources to help you prepare for coding interviews effectively.
